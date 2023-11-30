@@ -1,0 +1,55 @@
+.navv{
+    background-color: #f6f8ff;
+
+}
+.navi{
+    padding: 100px;
+
+}
+.blu{
+    color: #0e0a47;
+    font-size: 60px;
+}
+.bluu{
+    color: #0e0a47;
+    font-size: 50px;
+}
+.ppg{
+    font-size: large;
+}
+.ligg{
+    background-color: white;
+}
+.bulu{
+    background-color: #0e0a47;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 90px;
+    
+}
+.blue{
+    color: #0e0a47;
+    justify-content: center;
+    text-align: center;
+    padding-top: 50px;
+}
+.ble{
+    color: #0e0a47;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+
+.edo{
+    background-color: #d0d8fc;
+}
+
+
+
+
+@media screen and (max-width: 475px){
+    .box{
+        
+    }
+    
+}
